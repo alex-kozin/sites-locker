@@ -1,0 +1,45 @@
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.Properties.Resources.resources
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Main.resources
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Schedule.resources
+D:\users\Desktop\SitesLocker_v.2.0\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Main.resources
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Schedule.resources
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.Properties.Resources.resources
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+D:\users\Desktop\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.exe
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.pdb
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Main.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Schedule.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.Properties.Resources.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.exe
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.pdb
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.exe
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.pdb
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Main.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Schedule.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.Properties.Resources.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.exe
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.pdb
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.exe
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Debug\SitesLocker_v.2.0.pdb
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Main.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.frm_Schedule.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v._2._0.Properties.Resources.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Debug\SitesLocker_v.2.0.csproj.GenerateResource.Cache

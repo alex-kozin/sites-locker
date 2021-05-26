@@ -1,0 +1,38 @@
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.exe
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.pdb
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Main.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Schedule.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.Properties.Resources.resources
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.exe
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.pdb
+D:\users\Desktop\Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.exe
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.pdb
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.exe
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.pdb
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Main.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Schedule.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.Properties.Resources.resources
+E:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.exe
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.pdb
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.exe
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.pdb
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csprojResolveAssemblyReference.cache
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Main.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Schedule.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.Properties.Resources.resources
+F:\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csproj.GenerateResource.Cache
+D:\Documents\!!!Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.exe
+D:\Documents\!!!Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.pdb
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.exe
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\bin\Release\SitesLocker_v.2.0.pdb
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csprojAssemblyReference.cache
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Main.resources
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.frm_Schedule.resources
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v._2._0.Properties.Resources.resources
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.csproj.GenerateResource.cache
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.exe
+D:\Documents\_Programming\C#(Vs) projects\Myown\Myown_WinForms\Release_Course work\SitesLocker_v.2.1\SitesLocker_v.2.0\obj\x86\Release\SitesLocker_v.2.0.pdb

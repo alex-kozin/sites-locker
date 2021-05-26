@@ -1,0 +1,40 @@
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\bin\Debug\Stslck.exe
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\bin\Debug\Stslck.pdb
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\Stslck.Properties.Resources.resources
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\Stslck.exe
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\Stslck.pdb
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\Stslck\Stslck\obj\x86\Debug\Stslck.frm_Stslck.resources
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\Stslck.exe
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\Stslck.pdb
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\bin\Debug\Stslck.exe
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\bin\Debug\Stslck.pdb
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\Stslck.frm_Stslck.resources
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\Stslck.Properties.Resources.resources
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\7\Microsoft Visual Studio 10.0\VC#\CSharpProjects\StsLck_r\Stslck\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\users\Desktop\StsLck_r\Stslck\obj\x86\Debug\Stslck.exe
+D:\users\Desktop\StsLck_r\Stslck\obj\x86\Debug\Stslck.pdb
+D:\users\Desktop\StsLck_r_v1\Stslck\obj\x86\Debug\Stslck.exe
+D:\users\Desktop\StsLck_r_v1\Stslck\obj\x86\Debug\Stslck.pdb
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.exe
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.pdb
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\bin\Debug\Stslck.exe
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\bin\Debug\Stslck.pdb
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.csprojResolveAssemblyReference.cache
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.frm_Stslck.resources
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.Properties.Resources.resources
+D:\users\Desktop\Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.csproj.GenerateResource.Cache
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.exe
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.pdb
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\bin\Debug\Stslck.exe
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\bin\Debug\Stslck.pdb
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.csprojResolveAssemblyReference.cache
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.frm_Stslck.resources
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.Properties.Resources.resources
+D:\users\Desktop\Release_Course work\StsLck_v2.0\Stslck\obj\x86\Debug\Stslck.csproj.GenerateResource.Cache
+F:\Release_Course work\Stslck_v2.0\Stslck\obj\x86\Debug\Stslck.exe
+F:\Release_Course work\Stslck_v2.0\Stslck\obj\x86\Debug\Stslck.pdb
